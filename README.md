@@ -1,7 +1,3 @@
-Here's a clean, well-formatted, and professional version of your README file written in Markdown, designed to look great on GitHub or any code repository:
-
----
-
 # 🛠️ Ubuntu Update Script
 
 A simple and automated **bash script** to update, upgrade, and clean up your Ubuntu system. This script is ideal for anyone who wants to streamline system maintenance through the terminal.
